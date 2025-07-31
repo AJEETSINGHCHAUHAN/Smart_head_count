@@ -1,0 +1,9 @@
+# requirements.txt
+flask
+opencv-python
+torch
+torchvision
+mysql-connector-python
+numpy
+werkzeug
+python-dotenv
